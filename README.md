@@ -1,11 +1,10 @@
 # Machine Learning for Genomics and Therapeutics Resources
 
-This repo accompanies our survey paper: 
+This repo summarizes the survey paper: 
 
 [Machine Learning Applications for Therapeutic Tasks with Genomics Data](https://arxiv.org/abs/2105.01171).
 *Kexin Huang, Cao Xiao, Lucas M. Glass, Cathy W. Critchlow, Greg Gibson, Jimeng Sun*
 
-We list tools, algorithms, data for this area. Feel free to make a pull request for new resources.
 
 ---- 
 
